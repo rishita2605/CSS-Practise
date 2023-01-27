@@ -1,1 +1,1 @@
-# CSS-Practise
+# CSS Course
